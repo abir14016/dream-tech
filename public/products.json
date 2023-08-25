@@ -2,7 +2,7 @@
   {
     "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/03/Intel-Rocker-Lake-2-e1615908186584.jpg",
     "name": "Intel Core i7-9700K",
-    "category": "CPU",
+    "category": "CPU/Processor",
     "status": "In Stock",
     "price": 349.99,
     "description": "High-performance 9th generation processor.",
@@ -33,7 +33,7 @@
   {
     "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/03/Intel-Rocker-Lake-2-e1615908186584.jpg",
     "name": "AMD Ryzen 5 5600X",
-    "category": "CPU",
+    "category": "CPU/Processor",
     "status": "In Stock",
     "price": 299.99,
     "description": "Powerful CPU for gaming and productivity.",
@@ -64,7 +64,7 @@
   {
     "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/03/Intel-Rocker-Lake-2-e1615908186584.jpg",
     "name": "Intel Core i9-10900K",
-    "category": "CPU",
+    "category": "CPU/Processor",
     "status": "In Stock",
     "price": 499.99,
     "description": "Extreme-performance 10th generation processor.",
@@ -95,7 +95,7 @@
   {
     "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/03/Intel-Rocker-Lake-2-e1615908186584.jpg",
     "name": "AMD Ryzen 9 5950X",
-    "category": "CPU",
+    "category": "CPU/Processor",
     "status": "In Stock",
     "price": 749.99,
     "description": "Flagship CPU for enthusiasts and professionals.",
@@ -126,7 +126,7 @@
   {
     "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/03/Intel-Rocker-Lake-2-e1615908186584.jpg",
     "name": "AMD Ryzen 7 3700X",
-    "category": "CPU",
+    "category": "CPU/Processor",
     "status": "In Stock",
     "price": 299.99,
     "description": "Great value CPU for gaming and multitasking.",
