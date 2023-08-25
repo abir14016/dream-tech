@@ -21,7 +21,7 @@ const Navbar = () => {
                 </Link>
             </li>
             <li>
-                <Link href="cpu">
+                <Link href="motherboard">
                     <button>
                         <FontAwesomeIcon className="mr-2 text-secondary" icon={faServer}></FontAwesomeIcon>
                         <span className="btm-nav-label">Motherboard</span>
@@ -29,7 +29,7 @@ const Navbar = () => {
                 </Link>
             </li>
             <li>
-                <Link href="cpu">
+                <Link href="ram">
                     <button>
                         <FontAwesomeIcon className="mr-2 text-secondary" icon={faHardDrive}></FontAwesomeIcon>
                         <span className="btm-nav-label">Ram</span>
@@ -37,7 +37,7 @@ const Navbar = () => {
                 </Link>
             </li>
             <li>
-                <Link href="cpu">
+                <Link href="power-supply">
                     <button>
                         <FontAwesomeIcon className="mr-2 text-secondary" icon={faBolt}></FontAwesomeIcon>
                         <span className="btm-nav-label">Power Supply Unit</span>
@@ -45,7 +45,7 @@ const Navbar = () => {
                 </Link>
             </li>
             <li>
-                <Link href="cpu">
+                <Link href="storage">
                     <button>
                         <FontAwesomeIcon className="mr-2 text-secondary" icon={faMemory}></FontAwesomeIcon>
                         <span className="btm-nav-label">Storage Device</span>
@@ -53,7 +53,7 @@ const Navbar = () => {
                 </Link>
             </li>
             <li>
-                <Link href="cpu">
+                <Link href="monitor">
                     <button>
                         <FontAwesomeIcon className="mr-2 text-secondary" icon={faDisplay}></FontAwesomeIcon>
                         <span className="btm-nav-label">Monitor</span>
@@ -61,7 +61,7 @@ const Navbar = () => {
                 </Link>
             </li>
             <li>
-                <Link href="cpu">
+                <Link href="others">
                     <button>
                         <FontAwesomeIcon className="mr-2 text-secondary" icon={faGears}></FontAwesomeIcon>
                         <span className="btm-nav-label">Others</span>
