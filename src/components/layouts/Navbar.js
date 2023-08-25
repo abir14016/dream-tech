@@ -10,58 +10,58 @@ const Navbar = () => {
     const [menu, setMenu] = useState(false);
     const dropDownItems = (
         <>
-            <li>
+            <li className="py-1">
                 <Link href="cpu">
                     <button>
-                        <FontAwesomeIcon className="mr-2 text-secondary" icon={faMicrochip}></FontAwesomeIcon>
+                        <FontAwesomeIcon className="mr-4 text-secondary text-lg" icon={faMicrochip}></FontAwesomeIcon>
                         <span className="btm-nav-label">CPU / Processor</span>
                     </button>
                 </Link>
             </li>
-            <li>
+            <li className="py-1">
                 <Link href="motherboard">
                     <button>
-                        <FontAwesomeIcon className="mr-2 text-secondary" icon={faServer}></FontAwesomeIcon>
+                        <FontAwesomeIcon className="mr-4 text-secondary text-lg" icon={faServer}></FontAwesomeIcon>
                         <span className="btm-nav-label">Motherboard</span>
                     </button>
                 </Link>
             </li>
-            <li>
+            <li className="py-1">
                 <Link href="ram">
                     <button>
-                        <FontAwesomeIcon className="mr-2 text-secondary" icon={faHardDrive}></FontAwesomeIcon>
+                        <FontAwesomeIcon className="mr-4 text-secondary text-lg" icon={faHardDrive}></FontAwesomeIcon>
                         <span className="btm-nav-label">Ram</span>
                     </button>
                 </Link>
             </li>
-            <li>
+            <li className="py-1">
                 <Link href="power-supply">
                     <button>
-                        <FontAwesomeIcon className="mr-2 text-secondary" icon={faBolt}></FontAwesomeIcon>
+                        <FontAwesomeIcon className="mr-4 text-secondary text-lg" icon={faBolt}></FontAwesomeIcon>
                         <span className="btm-nav-label">Power Supply Unit</span>
                     </button>
                 </Link>
             </li>
-            <li>
+            <li className="py-1">
                 <Link href="storage">
                     <button>
-                        <FontAwesomeIcon className="mr-2 text-secondary" icon={faMemory}></FontAwesomeIcon>
+                        <FontAwesomeIcon className="mr-4 text-secondary text-lg" icon={faMemory}></FontAwesomeIcon>
                         <span className="btm-nav-label">Storage Device</span>
                     </button>
                 </Link>
             </li>
-            <li>
+            <li className="py-1">
                 <Link href="monitor">
                     <button>
-                        <FontAwesomeIcon className="mr-2 text-secondary" icon={faDisplay}></FontAwesomeIcon>
+                        <FontAwesomeIcon className="mr-4 text-secondary text-lg" icon={faDisplay}></FontAwesomeIcon>
                         <span className="btm-nav-label">Monitor</span>
                     </button>
                 </Link>
             </li>
-            <li>
+            <li className="py-1">
                 <Link href="others">
                     <button>
-                        <FontAwesomeIcon className="mr-2 text-secondary" icon={faGears}></FontAwesomeIcon>
+                        <FontAwesomeIcon className="mr-4 text-secondary text-lg" icon={faGears}></FontAwesomeIcon>
                         <span className="btm-nav-label">Others</span>
                     </button>
                 </Link>

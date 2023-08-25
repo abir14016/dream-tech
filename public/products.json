@@ -1,0 +1,889 @@
+[
+  {
+    "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/03/Intel-Rocker-Lake-2-e1615908186584.jpg",
+    "name": "Intel Core i7-9700K",
+    "category": "CPU",
+    "status": "In Stock",
+    "price": 349.99,
+    "description": "High-performance 9th generation processor.",
+    "keyFeatures": {
+      "Brand": "Intel",
+      "Model": "Core i7-9700K",
+      "Core Count": 8,
+      "Thread Count": 8,
+      "Base Clock": "3.6 GHz",
+      "Max Boost Clock": "4.9 GHz",
+      "Socket": "LGA 1151"
+    },
+    "individualRating": 4.8,
+    "averageRating": 4.7,
+    "reviews": [
+      {
+        "user": "User123",
+        "rating": 5,
+        "comment": "Excellent CPU for gaming and multitasking!"
+      },
+      {
+        "user": "TechGuru",
+        "rating": 4,
+        "comment": "Great performance, slightly high power consumption."
+      }
+    ]
+  },
+  {
+    "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/03/Intel-Rocker-Lake-2-e1615908186584.jpg",
+    "name": "AMD Ryzen 5 5600X",
+    "category": "CPU",
+    "status": "In Stock",
+    "price": 299.99,
+    "description": "Powerful CPU for gaming and productivity.",
+    "keyFeatures": {
+      "Brand": "AMD",
+      "Model": "Ryzen 5 5600X",
+      "Core Count": 6,
+      "Thread Count": 12,
+      "Base Clock": "3.7 GHz",
+      "Max Boost Clock": "4.6 GHz",
+      "Socket": "AM4"
+    },
+    "individualRating": 4.7,
+    "averageRating": 4.6,
+    "reviews": [
+      {
+        "user": "Gamer123",
+        "rating": 5,
+        "comment": "Fantastic value for the performance!"
+      },
+      {
+        "user": "TechEnthusiast",
+        "rating": 4,
+        "comment": "Runs cool and overclocks well."
+      }
+    ]
+  },
+  {
+    "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/03/Intel-Rocker-Lake-2-e1615908186584.jpg",
+    "name": "Intel Core i9-10900K",
+    "category": "CPU",
+    "status": "In Stock",
+    "price": 499.99,
+    "description": "Extreme-performance 10th generation processor.",
+    "keyFeatures": {
+      "Brand": "Intel",
+      "Model": "Core i9-10900K",
+      "Core Count": 10,
+      "Thread Count": 20,
+      "Base Clock": "3.7 GHz",
+      "Max Boost Clock": "5.3 GHz",
+      "Socket": "LGA 1200"
+    },
+    "individualRating": 4.9,
+    "averageRating": 4.8,
+    "reviews": [
+      {
+        "user": "Gamer456",
+        "rating": 5,
+        "comment": "Unmatched performance for gaming and content creation."
+      },
+      {
+        "user": "TechMaster",
+        "rating": 5,
+        "comment": "Expensive but worth every penny!"
+      }
+    ]
+  },
+  {
+    "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/03/Intel-Rocker-Lake-2-e1615908186584.jpg",
+    "name": "AMD Ryzen 9 5950X",
+    "category": "CPU",
+    "status": "In Stock",
+    "price": 749.99,
+    "description": "Flagship CPU for enthusiasts and professionals.",
+    "keyFeatures": {
+      "Brand": "AMD",
+      "Model": "Ryzen 9 5950X",
+      "Core Count": 16,
+      "Thread Count": 32,
+      "Base Clock": "3.4 GHz",
+      "Max Boost Clock": "4.9 GHz",
+      "Socket": "AM4"
+    },
+    "individualRating": 5.0,
+    "averageRating": 4.9,
+    "reviews": [
+      {
+        "user": "PowerUser",
+        "rating": 5,
+        "comment": "Absolute powerhouse. Ideal for heavy workloads."
+      },
+      {
+        "user": "TechNinja",
+        "rating": 5,
+        "comment": "No compromises. The best CPU on the market."
+      }
+    ]
+  },
+  {
+    "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/03/Intel-Rocker-Lake-2-e1615908186584.jpg",
+    "name": "AMD Ryzen 7 3700X",
+    "category": "CPU",
+    "status": "In Stock",
+    "price": 299.99,
+    "description": "Great value CPU for gaming and multitasking.",
+    "keyFeatures": {
+      "Brand": "AMD",
+      "Model": "Ryzen 7 3700X",
+      "Core Count": 8,
+      "Thread Count": 16,
+      "Base Clock": "3.6 GHz",
+      "Max Boost Clock": "4.4 GHz",
+      "Socket": "AM4"
+    },
+    "individualRating": 4.6,
+    "averageRating": 4.5,
+    "reviews": [
+      {
+        "user": "GamingFanatic",
+        "rating": 4,
+        "comment": "Solid performance for the price. Happy with my purchase."
+      },
+      {
+        "user": "TechEnthusiast123",
+        "rating": 5,
+        "comment": "Handles gaming and productivity tasks effortlessly."
+      }
+    ]
+  },
+  {
+    "image": "https://www.asus.com/media/Odin/websites/global/ProductLine/20200819054034.png",
+    "name": "ASUS ROG Strix Z590-E",
+    "category": "Motherboard",
+    "status": "In Stock",
+    "price": 349.99,
+    "description": "High-end motherboard with advanced features.",
+    "keyFeatures": {
+      "Brand": "ASUS",
+      "Model": "ROG Strix Z590-E",
+      "Form Factor": "ATX",
+      "Socket": "LGA 1200",
+      "Chipset": "Z590",
+      "RAM Slots": 4,
+      "Max RAM Capacity": "128 GB",
+      "PCI Express Slots": "3 x PCIe x16"
+    },
+    "individualRating": 4.9,
+    "averageRating": 4.8,
+    "reviews": [
+      {
+        "user": "GamingEnthusiast",
+        "rating": 5,
+        "comment": "Impressive build quality and RGB lighting."
+      },
+      {
+        "user": "PCBuilder123",
+        "rating": 5,
+        "comment": "Plenty of connectivity options. BIOS could be more user-friendly."
+      }
+    ]
+  },
+  {
+    "image": "https://www.asus.com/media/Odin/websites/global/ProductLine/20200819054034.png",
+    "name": "MSI MPG B550 Gaming Edge WiFi",
+    "category": "Motherboard",
+    "status": "In Stock",
+    "price": 199.99,
+    "description": "Gaming-focused motherboard with wireless connectivity.",
+    "keyFeatures": {
+      "Brand": "MSI",
+      "Model": "MPG B550 Gaming Edge WiFi",
+      "Form Factor": "ATX",
+      "Socket": "AM4",
+      "Chipset": "B550",
+      "RAM Slots": 4,
+      "Max RAM Capacity": "128 GB",
+      "PCI Express Slots": "2 x PCIe x16"
+    },
+    "individualRating": 4.7,
+    "averageRating": 4.6,
+    "reviews": [
+      {
+        "user": "GamerStar",
+        "rating": 5,
+        "comment": "Great aesthetics and solid performance."
+      },
+      {
+        "user": "TechNinja",
+        "rating": 4,
+        "comment": "Wi-Fi performance is excellent, but BIOS needs improvement."
+      }
+    ]
+  },
+  {
+    "image": "https://www.asus.com/media/Odin/websites/global/ProductLine/20200819054034.png",
+    "name": "GIGABYTE X570 AORUS Master",
+    "category": "Motherboard",
+    "status": "In Stock",
+    "price": 349.99,
+    "description": "High-end X570 motherboard for enthusiasts.",
+    "keyFeatures": {
+      "Brand": "GIGABYTE",
+      "Model": "X570 AORUS Master",
+      "Form Factor": "ATX",
+      "Socket": "AM4",
+      "Chipset": "X570",
+      "RAM Slots": 4,
+      "Max RAM Capacity": "128 GB",
+      "PCI Express Slots": "3 x PCIe x16"
+    },
+    "individualRating": 4.8,
+    "averageRating": 4.7,
+    "reviews": [
+      {
+        "user": "EnthusiastGamer",
+        "rating": 5,
+        "comment": "Top-tier motherboard with exceptional features."
+      },
+      {
+        "user": "TechGuru789",
+        "rating": 5,
+        "comment": "Excellent VRM cooling and overall build quality."
+      }
+    ]
+  },
+  {
+    "image": "https://www.asus.com/media/Odin/websites/global/ProductLine/20200819054034.png",
+    "name": "ASRock B450M Steel Legend",
+    "category": "Motherboard",
+    "status": "In Stock",
+    "price": 119.99,
+    "description": "Stylish micro-ATX motherboard with solid features.",
+    "keyFeatures": {
+      "Brand": "ASRock",
+      "Model": "B450M Steel Legend",
+      "Form Factor": "Micro-ATX",
+      "Socket": "AM4",
+      "Chipset": "B450",
+      "RAM Slots": 4,
+      "Max RAM Capacity": "64 GB",
+      "PCI Express Slots": "2 x PCIe x16"
+    },
+    "individualRating": 4.6,
+    "averageRating": 4.5,
+    "reviews": [
+      {
+        "user": "AestheticBuilder",
+        "rating": 5,
+        "comment": "Great looks and performance for the price."
+      },
+      {
+        "user": "PCModder",
+        "rating": 4,
+        "comment": "Nice motherboard, but lacks USB-C headers."
+      }
+    ]
+  },
+  {
+    "image": "https://www.asus.com/media/Odin/websites/global/ProductLine/20200819054034.png",
+    "name": "ASUS TUF B460M-Plus Gaming",
+    "category": "Motherboard",
+    "status": "In Stock",
+    "price": 129.99,
+    "description": "Mid-range micro-ATX motherboard for gaming.",
+    "keyFeatures": {
+      "Brand": "ASUS",
+      "Model": "TUF B460M-Plus Gaming",
+      "Form Factor": "Micro-ATX",
+      "Socket": "LGA 1200",
+      "Chipset": "B460",
+      "RAM Slots": 4,
+      "Max RAM Capacity": "64 GB",
+      "PCI Express Slots": "1 x PCIe x16, 2 x PCIe x1"
+    },
+    "individualRating": 4.4,
+    "averageRating": 4.3,
+    "reviews": [
+      {
+        "user": "CasualGamer",
+        "rating": 4,
+        "comment": "Decent motherboard for casual gaming."
+      },
+      {
+        "user": "TechEnthusiast456",
+        "rating": 4,
+        "comment": "Good value for a micro-ATX gaming build."
+      }
+    ]
+  },
+  {
+    "image": "https://www.groovypost.com/wp-content/uploads/2022/07/what-is-computer-RAM-featured.png",
+    "name": "Corsair Vengeance LPX 16GB",
+    "category": "RAM",
+    "status": "In Stock",
+    "price": 89.99,
+    "description": "High-performance memory for gaming and multitasking.",
+    "keyFeatures": {
+      "Brand": "Corsair",
+      "Model": "Vengeance LPX",
+      "Capacity": "16 GB (2 x 8 GB)",
+      "Speed": "3200 MHz",
+      "Type": "DDR4",
+      "CAS Latency": 16
+    },
+    "individualRating": 4.7,
+    "averageRating": 4.6,
+    "reviews": [
+      {
+        "user": "GamerGuy",
+        "rating": 5,
+        "comment": "Fast and reliable memory. Improved my system's performance."
+      },
+      {
+        "user": "TechSavvy",
+        "rating": 4,
+        "comment": "Good value for the price. Overclocking potential is limited."
+      }
+    ]
+  },
+  {
+    "image": "https://www.groovypost.com/wp-content/uploads/2022/07/what-is-computer-RAM-featured.png",
+    "name": "G.SKILL Ripjaws V 32GB",
+    "category": "RAM",
+    "status": "In Stock",
+    "price": 149.99,
+    "description": "High-capacity memory for content creation and heavy tasks.",
+    "keyFeatures": {
+      "Brand": "G.SKILL",
+      "Model": "Ripjaws V",
+      "Capacity": "32 GB (2 x 16 GB)",
+      "Speed": "3600 MHz",
+      "Type": "DDR4",
+      "CAS Latency": 18
+    },
+    "individualRating": 4.8,
+    "averageRating": 4.7,
+    "reviews": [
+      {
+        "user": "Creator123",
+        "rating": 5,
+        "comment": "Perfect for video editing and multitasking."
+      },
+      {
+        "user": "TechEnthusiast",
+        "rating": 5,
+        "comment": "Stable and reliable memory. Excellent performance."
+      }
+    ]
+  },
+  {
+    "image": "https://www.groovypost.com/wp-content/uploads/2022/07/what-is-computer-RAM-featured.png",
+    "name": "Crucial Ballistix 8GB",
+    "category": "RAM",
+    "status": "In Stock",
+    "price": 69.99,
+    "description": "Affordable memory for budget gaming and everyday use.",
+    "keyFeatures": {
+      "Brand": "Crucial",
+      "Model": "Ballistix",
+      "Capacity": "8 GB (1 x 8 GB)",
+      "Speed": "2666 MHz",
+      "Type": "DDR4",
+      "CAS Latency": 16
+    },
+    "individualRating": 4.4,
+    "averageRating": 4.3,
+    "reviews": [
+      {
+        "user": "BudgetGamer",
+        "rating": 4,
+        "comment": "Good RAM for the price. Handles games well."
+      },
+      {
+        "user": "EverydayUser",
+        "rating": 4,
+        "comment": "Reliable performance for daily tasks."
+      }
+    ]
+  },
+  {
+    "image": "https://www.groovypost.com/wp-content/uploads/2022/07/what-is-computer-RAM-featured.png",
+    "name": "Kingston HyperX Fury RGB 16GB",
+    "category": "RAM",
+    "status": "In Stock",
+    "price": 119.99,
+    "description": "RGB memory with moderate performance and style.",
+    "keyFeatures": {
+      "Brand": "Kingston",
+      "Model": "HyperX Fury RGB",
+      "Capacity": "16 GB (2 x 8 GB)",
+      "Speed": "3000 MHz",
+      "Type": "DDR4",
+      "CAS Latency": 15
+    },
+    "individualRating": 4.5,
+    "averageRating": 4.4,
+    "reviews": [
+      {
+        "user": "RGBEnthusiast",
+        "rating": 4,
+        "comment": "Looks great in my build, performs decently."
+      },
+      {
+        "user": "CasualGamer",
+        "rating": 4,
+        "comment": "Satisfactory gaming performance."
+      }
+    ]
+  },
+  {
+    "image": "https://www.knowcomputing.com/wp-content/uploads/2022/08/computer-power-supply-PSU-with-cables.jpg",
+    "name": "EVGA 750 BQ, 80+ Bronze 750W",
+    "category": "Power Supply",
+    "status": "In Stock",
+    "price": 89.99,
+    "description": "Reliable power supply for mid-range systems.",
+    "keyFeatures": {
+      "Brand": "EVGA",
+      "Model": "750 BQ",
+      "Wattage": "750W",
+      "Efficiency": "80+ Bronze",
+      "Modular": "Semi-Modular",
+      "Connectors": "1 x 24-pin ATX, 1 x 8-pin CPU, 4 x PCIe, 8 x SATA, 3 x Molex"
+    },
+    "individualRating": 4.5,
+    "averageRating": 4.4,
+    "reviews": [
+      {
+        "user": "PCEnthusiast",
+        "rating": 4,
+        "comment": "Stable power output, but cables could be more flexible."
+      },
+      {
+        "user": "Builder123",
+        "rating": 5,
+        "comment": "Affordable PSU with good performance. Not fully modular."
+      }
+    ]
+  },
+
+  {
+    "image": "https://www.knowcomputing.com/wp-content/uploads/2022/08/computer-power-supply-PSU-with-cables.jpg",
+    "name": "Corsair RM850x, 80+ Gold 850W",
+    "category": "Power Supply",
+    "status": "In Stock",
+    "price": 129.99,
+    "description": "High-efficiency power supply for gaming and overclocking.",
+    "keyFeatures": {
+      "Brand": "Corsair",
+      "Model": "RM850x",
+      "Wattage": "850W",
+      "Efficiency": "80+ Gold",
+      "Modular": "Fully Modular",
+      "Connectors": "1 x 24-pin ATX, 2 x 8-pin CPU, 6 x PCIe, 10 x SATA, 4 x Molex"
+    },
+    "individualRating": 4.8,
+    "averageRating": 4.7,
+    "reviews": [
+      {
+        "user": "GamingEnthusiast",
+        "rating": 5,
+        "comment": "Excellent power delivery and fully modular design."
+      },
+      {
+        "user": "Overclocker123",
+        "rating": 4,
+        "comment": "Great PSU for overclocking, but slightly pricey."
+      }
+    ]
+  },
+  {
+    "image": "https://www.knowcomputing.com/wp-content/uploads/2022/08/computer-power-supply-PSU-with-cables.jpg",
+    "name": "Seasonic Focus GX-650, 80+ Gold 650W",
+    "category": "Power Supply",
+    "status": "In Stock",
+    "price": 109.95,
+    "description": "Compact and efficient power supply for small form factor builds.",
+    "keyFeatures": {
+      "Brand": "Seasonic",
+      "Model": "Focus GX-650",
+      "Wattage": "650W",
+      "Efficiency": "80+ Gold",
+      "Modular": "Semi-Modular",
+      "Connectors": "1 x 24-pin ATX, 1 x 8-pin CPU, 2 x PCIe, 8 x SATA, 3 x Molex"
+    },
+    "individualRating": 4.6,
+    "averageRating": 4.5,
+    "reviews": [
+      {
+        "user": "SFFBuilder",
+        "rating": 4.5,
+        "comment": "Perfect for small cases. Cables are manageable and build quality is solid."
+      },
+      {
+        "user": "EcoGamer22",
+        "rating": 5,
+        "comment": "Efficient and quiet PSU. Met all my gaming and energy-saving needs."
+      }
+    ]
+  },
+
+  {
+    "image": "https://www.freecodecamp.org/news/content/images/2021/04/denny-muller-1qL31aacAPA-unsplash.jpg",
+    "name": "Samsung 970 EVO Plus NVMe SSD 500GB",
+    "category": "Storage Device",
+    "status": "In Stock",
+    "price": 119.99,
+    "description": "High-speed NVMe SSD for faster data access and gaming.",
+    "keyFeatures": {
+      "Brand": "Samsung",
+      "Model": "970 EVO Plus",
+      "Capacity": "500GB",
+      "Interface": "NVMe PCIe M.2",
+      "Read Speed": "3500 MB/s",
+      "Write Speed": "3200 MB/s"
+    },
+    "individualRating": 4.9,
+    "averageRating": 4.8,
+    "reviews": [
+      {
+        "user": "GamerX",
+        "rating": 5,
+        "comment": "Blazing fast SSD! Loading times in games are significantly reduced."
+      },
+      {
+        "user": "TechEnthusiast",
+        "rating": 4.5,
+        "comment": "Excellent performance, but a bit pricey."
+      }
+    ]
+  },
+  {
+    "image": "https://www.freecodecamp.org/news/content/images/2021/04/denny-muller-1qL31aacAPA-unsplash.jpg",
+    "name": "Seagate BarraCuda HDD 2TB",
+    "category": "Storage Device",
+    "status": "In Stock",
+    "price": 64.99,
+    "description": "Affordable high-capacity HDD for storing large files and backups.",
+    "keyFeatures": {
+      "Brand": "Seagate",
+      "Model": "BarraCuda",
+      "Capacity": "2TB",
+      "Interface": "SATA 6Gb/s",
+      "RPM": "7200",
+      "Cache": "64MB"
+    },
+    "individualRating": 4.3,
+    "averageRating": 4.2,
+    "reviews": [
+      {
+        "user": "DataHoarder",
+        "rating": 4,
+        "comment": "Massive storage space at a reasonable price."
+      },
+      {
+        "user": "BudgetBuilder",
+        "rating": 4.5,
+        "comment": "Good value for the amount of storage you get."
+      }
+    ]
+  },
+  {
+    "image": "https://www.freecodecamp.org/news/content/images/2021/04/denny-muller-1qL31aacAPA-unsplash.jpg",
+    "name": "WD Blue SATA SSD 250GB",
+    "category": "Storage Device",
+    "status": "In Stock",
+    "price": 49.95,
+    "description": "Entry-level SSD for improved system responsiveness.",
+    "keyFeatures": {
+      "Brand": "WD",
+      "Model": "Blue",
+      "Capacity": "250GB",
+      "Interface": "SATA 6Gb/s",
+      "Read Speed": "545 MB/s",
+      "Write Speed": "525 MB/s"
+    },
+    "individualRating": 4.2,
+    "averageRating": 4.0,
+    "reviews": [
+      {
+        "user": "EverydayUser",
+        "rating": 4,
+        "comment": "A noticeable speed boost for my laptop."
+      },
+      {
+        "user": "TechNovice",
+        "rating": 3.5,
+        "comment": "Decent SSD for basic computing, but not the fastest."
+      }
+    ]
+  },
+  {
+    "image": "https://assets-prd.ignimgs.com/2023/04/14/monitor-alienware-aw2723df-white-gallery-1-1681490082828.jpeg",
+    "name": "Dell UltraSharp U2719D 27-inch Monitor",
+    "category": "Monitor",
+    "status": "In Stock",
+    "price": 349.99,
+    "description": "High-resolution IPS monitor with accurate colors for professional use.",
+    "keyFeatures": {
+      "Brand": "Dell",
+      "Model": "UltraSharp U2719D",
+      "Screen Size": "27 inches",
+      "Resolution": "2560 x 1440 (QHD)",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "5 ms"
+    },
+    "individualRating": 4.8,
+    "averageRating": 4.7,
+    "reviews": [
+      {
+        "user": "GraphicDesigner",
+        "rating": 5,
+        "comment": "Accurate colors and sharp display make design work a pleasure."
+      },
+      {
+        "user": "OfficePro",
+        "rating": 4.5,
+        "comment": "Great monitor for multitasking and office tasks."
+      }
+    ]
+  },
+  {
+    "image": "https://assets-prd.ignimgs.com/2023/04/14/monitor-alienware-aw2723df-white-gallery-1-1681490082828.jpeg",
+    "name": "LG 34GN850-B 34-inch Ultrawide Gaming Monitor",
+    "category": "Monitor",
+    "status": "In Stock",
+    "price": 799.0,
+    "description": "Immersive ultrawide gaming monitor with high refresh rate.",
+    "keyFeatures": {
+      "Brand": "LG",
+      "Model": "34GN850-B",
+      "Screen Size": "34 inches",
+      "Resolution": "3440 x 1440 (UWQHD)",
+      "Panel Type": "Nano IPS",
+      "Refresh Rate": "144 Hz",
+      "Response Time": "1 ms"
+    },
+    "individualRating": 4.9,
+    "averageRating": 4.8,
+    "reviews": [
+      {
+        "user": "GamerXtreme",
+        "rating": 5,
+        "comment": "Gaming on this ultrawide monitor is a whole new level of immersion."
+      },
+      {
+        "user": "TechEnthusiast",
+        "rating": 4.5,
+        "comment": "Impressive display, but a bit pricey for casual users."
+      }
+    ]
+  },
+  {
+    "image": "https://assets-prd.ignimgs.com/2023/04/14/monitor-alienware-aw2723df-white-gallery-1-1681490082828.jpeg",
+    "name": "ASUS ProArt PA248Q 24.1-inch Monitor",
+    "category": "Monitor",
+    "status": "In Stock",
+    "price": 299.95,
+    "description": "Color-accurate monitor for photographers and content creators.",
+    "keyFeatures": {
+      "Brand": "ASUS",
+      "Model": "ProArt PA248Q",
+      "Screen Size": "24.1 inches",
+      "Resolution": "1920 x 1200 (WUXGA)",
+      "Panel Type": "IPS",
+      "Refresh Rate": "60 Hz",
+      "Response Time": "6 ms"
+    },
+    "individualRating": 4.7,
+    "averageRating": 4.6,
+    "reviews": [
+      {
+        "user": "Photographer123",
+        "rating": 5,
+        "comment": "This monitor does justice to my photos with accurate colors."
+      },
+      {
+        "user": "ContentCreator",
+        "rating": 4.5,
+        "comment": "Solid choice for design work, though higher resolution would be nice."
+      }
+    ]
+  },
+  {
+    "image": "https://assetsio.reedpopcdn.com/digitalfoundry-best-65-percent-keyboards-1626184412443.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp",
+    "name": "Logitech G Pro X Mechanical Gaming Keyboard",
+    "category": "Others",
+    "status": "In Stock",
+    "price": 129.99,
+    "description": "Customizable mechanical keyboard with hot-swappable switches.",
+    "keyFeatures": {
+      "Brand": "Logitech",
+      "Model": "G Pro X",
+      "Switches": "Hot-Swappable GX switches",
+      "Backlighting": "RGB",
+      "Connectivity": "Wired USB",
+      "Additional Features": "Customizable RGB lighting, compact design"
+    },
+    "individualRating": 4.8,
+    "averageRating": 4.7,
+    "reviews": [
+      {
+        "user": "GamerXtreme",
+        "rating": 5,
+        "comment": "Love the ability to change switches and the RGB lighting options."
+      },
+      {
+        "user": "KeyboardEnthusiast",
+        "rating": 4.5,
+        "comment": "High-quality keyboard with a sleek design."
+      }
+    ]
+  },
+  {
+    "image": "https://assets-prd.ignimgs.com/2023/04/17/mouse-dpi-explained-2-1681762075571.jpg",
+    "name": "Razer DeathAdder Elite Gaming Mouse",
+    "category": "Others",
+    "status": "In Stock",
+    "price": 69.99,
+    "description": "High-precision gaming mouse with customizable lighting.",
+    "keyFeatures": {
+      "Brand": "Razer",
+      "Model": "DeathAdder Elite",
+      "Sensor": "Optical, 16000 DPI",
+      "Buttons": "7 programmable buttons",
+      "Connectivity": "Wired USB",
+      "Additional Features": "Customizable RGB lighting, ergonomic design"
+    },
+    "individualRating": 4.7,
+    "averageRating": 4.6,
+    "reviews": [
+      {
+        "user": "ProGamer123",
+        "rating": 5,
+        "comment": "Precise tracking and comfortable grip for long gaming sessions."
+      },
+      {
+        "user": "TechEnthusiast",
+        "rating": 4,
+        "comment": "Good mouse overall, but the software can be improved."
+      }
+    ]
+  },
+  {
+    "image": "https://assets-prd.ignimgs.com/2023/04/17/mouse-dpi-explained-2-1681762075571.jpg",
+    "name": "HyperX Cloud II Gaming Headset",
+    "category": "Others",
+    "status": "In Stock",
+    "price": 99.99,
+    "description": "Comfortable gaming headset with virtual 7.1 surround sound.",
+    "keyFeatures": {
+      "Brand": "HyperX",
+      "Model": "Cloud II",
+      "Sound": "Virtual 7.1 surround",
+      "Microphone": "Detachable noise-canceling",
+      "Connectivity": "Wired USB/3.5mm",
+      "Additional Features": "Memory foam ear cushions, durable aluminum frame"
+    },
+    "individualRating": 4.6,
+    "averageRating": 4.5,
+    "reviews": [
+      {
+        "user": "GamerXtreme",
+        "rating": 5,
+        "comment": "Great sound quality and extremely comfortable for long gaming sessions."
+      },
+      {
+        "user": "MusicLover",
+        "rating": 4,
+        "comment": "Good audio performance for both gaming and music."
+      }
+    ]
+  },
+  {
+    "image": "https://assets-prd.ignimgs.com/2023/04/17/mouse-dpi-explained-2-1681762075571.jpg",
+    "name": "Xbox Wireless Controller",
+    "category": "Others",
+    "status": "In Stock",
+    "price": 59.99,
+    "description": "Wireless controller for Xbox and PC gaming.",
+    "keyFeatures": {
+      "Brand": "Microsoft",
+      "Compatibility": "Xbox Series X|S, Xbox One, Windows PC",
+      "Connectivity": "Wireless Bluetooth",
+      "Additional Features": "Textured grip, custom button mapping"
+    },
+    "individualRating": 4.8,
+    "averageRating": 4.7,
+    "reviews": [
+      {
+        "user": "GamerXtreme",
+        "rating": 5,
+        "comment": "Seamless connectivity and comfortable design."
+      },
+      {
+        "user": "TechEnthusiast",
+        "rating": 4.5,
+        "comment": "Works great on both Xbox and PC."
+      }
+    ]
+  },
+  {
+    "image": "https://assets-prd.ignimgs.com/2023/04/17/mouse-dpi-explained-2-1681762075571.jpg",
+    "name": "Logitech HD Pro Webcam C920",
+    "category": "Others",
+    "status": "In Stock",
+    "price": 79.99,
+    "description": "High-definition webcam for video conferencing and streaming.",
+    "keyFeatures": {
+      "Brand": "Logitech",
+      "Resolution": "1080p Full HD",
+      "Frame Rate": "30 fps",
+      "Microphone": "Built-in dual stereo",
+      "Additional Features": "Autofocus, noise reduction"
+    },
+    "individualRating": 4.7,
+    "averageRating": 4.6,
+    "reviews": [
+      {
+        "user": "RemoteWorker",
+        "rating": 5,
+        "comment": "Clear video and audio quality for remote meetings."
+      },
+      {
+        "user": "Streamer123",
+        "rating": 4.5,
+        "comment": "Solid webcam for streaming on platforms like Twitch."
+      }
+    ]
+  },
+  {
+    "image": "https://assets-prd.ignimgs.com/2023/04/17/mouse-dpi-explained-2-1681762075571.jpg",
+    "name": "Wacom Intuos Pro Drawing Tablet",
+    "category": "Others",
+    "status": "In Stock",
+    "price": 349.0,
+    "description": "Professional drawing tablet for digital artists and designers.",
+    "keyFeatures": {
+      "Brand": "Wacom",
+      "Model": "Intuos Pro",
+      "Active Area": "Medium (13.2 x 8.5 inches)",
+      "Pressure Levels": "8192",
+      "Connectivity": "Wired USB/Bluetooth",
+      "Additional Features": "Customizable ExpressKeys, pen tilt support"
+    },
+    "individualRating": 4.9,
+    "averageRating": 4.8,
+    "reviews": [
+      {
+        "user": "DigitalArtist",
+        "rating": 5,
+        "comment": "Exceptional accuracy and responsiveness for digital art."
+      },
+      {
+        "user": "DesignerPro",
+        "rating": 4.5,
+        "comment": "Great tool for precise design work."
+      }
+    ]
+  }
+]
