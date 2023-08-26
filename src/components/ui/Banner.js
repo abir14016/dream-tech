@@ -5,8 +5,8 @@ import Typewriter from 'typewriter-effect';
 
 const Banner = () => {
     return (
-        <div className="md:grid grid-cols-2">
-            <div className='flex justify-center items-center'>
+        <div className="md:grid grid-cols-2 bg-base-300">
+            <div className='flex justify-center items-center px-3'>
                 <div>
                     <div className=' text-3xl md:text-4xl font-bold text-secondary'>
                         <p className='text-white text-3xl md:text-5xl'>Build Your - </p>
