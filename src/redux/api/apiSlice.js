@@ -7,8 +7,14 @@ export const api = createApi({
         getAllProducts: builder.query({
             query: () => `/product`,
         }),
+        getRandomProducts: builder.query({
+            query: () => `/randomProduct`,
+        }),
     }),
 })
 
 
-export const { useGetAllProductsQuery } = api;
+export const {
+    useGetAllProductsQuery,
+    useGetRandomProductsQuery
+} = api;
