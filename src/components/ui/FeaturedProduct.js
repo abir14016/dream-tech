@@ -36,7 +36,7 @@ const FeaturedProduct = ({ featuredProduct }) => {
                     {Array.from({ length: 5 }, (_, index) => (
                         <FontAwesomeIcon
                             key={index}
-                            className={`text-${index < filledStars ? 'secondary' : 'primary'}`}
+                            className={`text-${index < filledStars ? 'secondary' : ''}`}
                             icon={faStar}
                         />
                     ))}
