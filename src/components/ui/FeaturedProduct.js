@@ -1,6 +1,7 @@
 import { faStar } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Image from 'next/image';
+import Link from 'next/link';
 import React from 'react';
 
 const FeaturedProduct = ({ featuredProduct }) => {
@@ -8,7 +9,8 @@ const FeaturedProduct = ({ featuredProduct }) => {
     const filledStars = Math.floor(individualRating);
     return (
         <div className="p-4">
-            <a href="" className="c-card block bg-base-200 shadow-md hover:shadow-xl rounded-lg overflow-hidden">
+            <Link href={`/featured-product/${_id}`}
+                className="c-card block bg-base-200 shadow-md hover:shadow-xl rounded-lg overflow-hidden">
                 <div className="relative pb-48 overflow-hidden">
                     <Image
                         // style={{ width: "auto", height: "auto" }}
@@ -41,7 +43,7 @@ const FeaturedProduct = ({ featuredProduct }) => {
                         />
                     ))}
                 </div>
-            </a>
+            </Link>
         </div>
     );
 };
