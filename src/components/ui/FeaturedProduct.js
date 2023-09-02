@@ -10,10 +10,9 @@ const FeaturedProduct = ({ featuredProduct }) => {
     return (
         <div className="p-4">
             <Link href={`/featured-product/${_id}`}
-                className="c-card block bg-base-200 shadow-md hover:shadow-xl rounded-lg overflow-hidden">
+                className="c-card block bg-base-200 shadow-md hover:shadow-xl rounded-lg overflow-hidden hover:opacity-75">
                 <div className="relative pb-48 overflow-hidden">
                     <Image
-                        // style={{ width: "auto", height: "auto" }}
                         className="absolute inset-0 h-full w-full object-cover"
                         src={image}
                         alt="product-image"
