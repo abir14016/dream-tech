@@ -2,7 +2,7 @@ import React from 'react';
 
 const RamPage = () => {
     return (
-        <div>
+        <div className='bg-blue-400'>
             <h2>This is ram page</h2>
         </div>
     );
