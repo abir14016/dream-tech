@@ -3,8 +3,9 @@ import Link from 'next/link';
 import React from 'react';
 
 const FeaturedCategory = ({ category }) => {
-    const { title, bgColor, icon } = category;
-    let categoryClass = "bg-gray-700"; // Default background color class
+    const { title, bgColor, icon, route } = category;
+
+    let categoryClass = "bg-gray-700";
 
     // Apply specific background color classes based on bgColor
     if (bgColor === "pink-300") {
@@ -21,7 +22,7 @@ const FeaturedCategory = ({ category }) => {
         categoryClass = "bg-orange-300";
     }
     return (
-        <Link href="/" className='md:px-16 lg-px24'>
+        <Link href={`/${route}`} className='md:px-16 lg-px24'>
             <div className={`${categoryClass} shadow-lg rounded-lg h-36 group hover:opacity-70`}>
                 <div className='flex justify-end'>
                     <div className="badge badge-primary">featured</div>

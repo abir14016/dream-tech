@@ -7,37 +7,43 @@ const FeaturedCategories = () => {
             id: 1,
             title: "CPU/Processor",
             bgColor: "pink-300",
-            icon: faMicrochip
+            icon: faMicrochip,
+            route: "cpu"
         },
         {
             id: 2,
             title: "Motherboard",
             bgColor: "indigo-300",
-            icon: faServer
+            icon: faServer,
+            route: "motherboard"
         },
         {
             id: 3,
             title: "RAM",
             bgColor: "yellow-300",
-            icon: faHardDrive
+            icon: faHardDrive,
+            route: "ram"
         },
         {
             id: 4,
             title: "Power Supply Unit",
             bgColor: "blue-300",
-            icon: faBolt
+            icon: faBolt,
+            route: "power-supply"
         },
         {
             id: 5,
             title: "Storage Device",
             bgColor: "green-300",
-            icon: faMemory
+            icon: faMemory,
+            route: "storage"
         },
         {
             id: 6,
             title: "Monitor",
             bgColor: "orange-300",
-            icon: faDisplay
+            icon: faDisplay,
+            route: "monitor"
         },
     ]
     return (
